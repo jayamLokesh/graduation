@@ -4,6 +4,7 @@
 This repository contains the [yearbook](https://education.github.com/graduation/yearbook) of the **$ git remote < graduation >** event. By issuing a pull request to this repository, you can request to be added to the Class of 2020. 
 
 Join the event and receive GitHub swag in the comfort of your home!
+and make the most out of it!!
 
 
 ## Privacy Notice 👀
